@@ -1,5 +1,5 @@
 # R Shiny KPI Dashboard
-Portfolio overview of R Shiny + Plotly dashboard from summer 2021 NORC internship. 
+![alt text](https://https://github.com/remypstewart/remypstewart.github.io/blob/master/images/layout.jpg)
 
 [Live dashboard is available here- the figures will take a moment to load after you hit submit. ](https://remypstewart.shinyapps.io/shinyapps/) 
 
@@ -196,5 +196,3 @@ This framework is parallel to the live version my team at NORC now has in produc
 
 Reference: 
 Barlacchi, Gianni, Marco De Nadai, Roberto Larcher, Antonio Casella, Christiana Chitic… Bruno Lepri. 2015. “A multi-source dataset of urban life in the city of Milan and Province of Trentino.” Scientific Data 2 (150055): 1-15. 
-
-![image](https://user-images.githubusercontent.com/75761497/137233248-5b1f0b53-06f2-4bcf-9df4-649f50b3530a.png)
