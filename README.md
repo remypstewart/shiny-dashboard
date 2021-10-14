@@ -1,5 +1,7 @@
+### [Return to Portfolio Directory](https://remypstewart.github.io/)
+
+
 # R Shiny KPI Dashboard
-## [Return to Portfolio Directory](https://remypstewart.github.io/)
 ![alt text](/layout.jpg)
 
 <a href="https://remypstewart.shinyapps.io/shinyapps/" target="_blank">Live dashboard is available here- the figures will take a moment to load after you hit submit.</a>
