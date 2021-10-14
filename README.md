@@ -1,5 +1,5 @@
 # R Shiny KPI Dashboard
-![alt text](https://https://github.com/remypstewart/remypstewart.github.io/blob/master/images/layout.jpg)
+![alt text](/layout.jpg)
 
 [Live dashboard is available here- the figures will take a moment to load after you hit submit. ](https://remypstewart.shinyapps.io/shinyapps/) 
 
