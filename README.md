@@ -1,7 +1,8 @@
 # R Shiny KPI Dashboard
+## [Return to Portfolio Directory](https://remypstewart.github.io/)
 ![alt text](/layout.jpg)
 
-[Live dashboard is available here- the figures will take a moment to load after you hit submit. ](https://remypstewart.shinyapps.io/shinyapps/) 
+<a href="https://remypstewart.shinyapps.io/shinyapps/" target="_blank">Live dashboard is available here- the figures will take a moment to load after you hit submit.</a>
 
 During the summer of 2020, I interned with the [National Opinion Research Center (NORC)](https://www.norc.org/Pages/default.aspx), a nonpartisan independent research institution that is an industry leader on providing empirically robust findings to guide private and public sector clients. NORC’s daily operations involves over a million annual calls to US households to administer population-level surveys for clients across industries including the [National Immunization Survey]( https://www.norc.org/Research/Projects/Pages/national-immunization-survey.aspx) for the US Center for Disease Control and [AmeriSpeak]( https://amerispeak.norc.org/Pages/default.aspx) in collaboration with Associated Press news. The organization has multiple call centers that ongoingly stream hourly records to a centralized SQL Server database that cover core KPIs including the number of outbound and inbound calls, successful participant contacts, call time lengths, and beyond. 
 
